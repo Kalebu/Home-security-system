@@ -26,6 +26,8 @@ and immediately alarm the system by raising notifications which include;
 - Sending a SMS Notification 
 - Displaying Threat on LCD Display 
 
-## Circuit Diagram 
+## Circuit Diagram
+
+The first proposed model used PIR as to sense threats while the codebase relies on ultrasonic to achieve that, so replace PIR with ultrasonic in your wiring !! .
 
 ![](security-system.svg)
